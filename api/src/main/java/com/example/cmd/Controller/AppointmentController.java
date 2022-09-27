@@ -1,2 +1,4 @@
-package com.example.cmd.Controller;public class AppointmentController {
+package com.example.cmd.Controller;
+
+public class AppointmentController {
 }

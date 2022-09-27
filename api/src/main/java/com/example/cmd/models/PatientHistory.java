@@ -1,2 +1,4 @@
-package com.example.cmd.models;public class PatientHistory {
+package com.example.cmd.models;
+
+public class PatientHistory {
 }
