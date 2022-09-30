@@ -1,4 +1,4 @@
-package com.server.cmd.models;
+package com.example.cmd.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

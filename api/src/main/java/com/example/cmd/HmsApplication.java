@@ -1,5 +1,4 @@
-package com.server.cmd;
-
+package com.example.cmd;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

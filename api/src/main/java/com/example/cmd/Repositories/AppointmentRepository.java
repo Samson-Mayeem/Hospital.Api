@@ -1,6 +1,6 @@
-package com.server.cmd.Repositories;
+package com.example.cmd.Repositories;
+import com.example.cmd.models.Appointment;
 import org.springframework.data.jpa.repository.JpaRepository;
-import com.server.cmd.models.Appointment;
 
 import java.util.Optional;
 
