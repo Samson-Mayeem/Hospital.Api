@@ -1,4 +1,4 @@
-package com.example.cmd.models;
+package com.server.cmd.models;
 
 import java.util.Date;
 

@@ -1,10 +1,11 @@
-package com.example.cmd.Controller;
+package com.server.cmd.Controller;
 
 
-import com.example.cmd.Services.AppointmentService;
-import com.example.cmd.models.Appointment;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+
+import com.server.cmd.Services.AppointmentService;
+import com.server.cmd.models.Appointment;
 
 import java.util.List;
 import java.util.TimeZone;

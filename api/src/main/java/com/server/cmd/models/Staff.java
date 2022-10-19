@@ -1,4 +1,4 @@
-package com.example.cmd.models;
+package com.server.cmd.models;
 
 public class Staff {
     private  Long Id;

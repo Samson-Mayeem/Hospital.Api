@@ -1,4 +1,4 @@
-package com.example.cmd.Services;
+package com.server.cmd.Services;
 
 public class LaboratoryServices {
 }

@@ -1,8 +1,9 @@
-package com.example.cmd.Services;
+package com.server.cmd.Services;
 
-import com.example.cmd.models.Appointment;
-import com.example.cmd.Repositories.AppointmentRepository;
 import org.springframework.stereotype.Service;
+
+import com.server.cmd.Repositories.AppointmentRepository;
+import com.server.cmd.models.Appointment;
 
 import java.util.List;
 import java.util.Objects;
